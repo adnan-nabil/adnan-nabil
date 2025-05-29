@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I am Nabil Adnan
+
+Welcome to my GitHub profile.
+
+I completed my Bachelor's in Computer Science at Sylhet Engineering College, with a focus on Image Processing, Machine Learning, and Computer Vision. Currently, I am working at Metrosofts.se as a Machine Learning Intern. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large language models and vision-based architectures such as Convolutional Neural Networks (CNNs) and Vision Transformers.
 
 <!--
 **adnan-nabil/adnan-nabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
