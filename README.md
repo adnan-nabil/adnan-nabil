@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I completed my Bachelor's in Computer Science at Sylhet Engineering College, with a focus on Image Processing, Machine Learning, and Computer Vision. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large language models and vision-based architectures such as Convolutional Neural Networks (CNNs) and Vision Transformers.
+I have completed my Bachelor's in Computer Science at Sylhet Engineering College, with a focus on Image Processing, Machine Learning, and Computer Vision. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large language models and vision-based architectures such as Convolutional Neural Networks (CNNs) and Vision Transformers.
 
 🔭 I’m currently working on Metrosofts.se as a Machine Learning Intern.
 
