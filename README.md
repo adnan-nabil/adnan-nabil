@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I have completed my Bachelor's in Computer Science at Sylhet Engineering College, with a focus on Image Processing, Machine Learning, and Computer Vision. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on advancing the capabilities of large language models and vision-based architectures such as Convolutional Neural Networks (CNNs) and Vision Transformers.
+I have completed my Bachelor's in Computer Science and Engineering from Shahjalal University of Science and Technology with a focus on Software Engineering, Machine Learning, and Artificial Intelligence. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on leveraging the capabilities of Large Language Models and vision architectures such as Convolutional Neural Networks (CNN) and Vision Transformers. Parallely I am working on RAG based system development with FastAPI.
 
 🔭 I’m currently working on Metrosofts.se as a Machine Learning Intern.
 
@@ -11,7 +11,8 @@ I have completed my Bachelor's in Computer Science at Sylhet Engineering College
 ### 📊 Current Focus
 - Transformer based architecture 
 - Vision Language Model(VLM) such as grounding Dino, GRiT, LavaNext, BLIP
-- Vision-Transformer Understanding 
+- Vision-Transformer
+- RAG 
 - Restful API by FastAPI
 
 ### 🎓 Academic Background
@@ -21,7 +22,7 @@ I have completed my Bachelor's in Computer Science at Sylhet Engineering College
 ### 🚀 Projects and Interests
 - CNN based architecture for classification and segmentation
 - vision transformer based architecture for instance segmentation
-- Vision-Language architecture
+- RAG for visual search
 
 ### 💬 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/adnan-nabil/) 
