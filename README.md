@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile.
 
-I have completed my Bachelor's in Computer Science and Engineering from Shahjalal University of Science and Technology with a focus on Software Engineering, Machine Learning, and Artificial Intelligence. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on leveraging the capabilities of Large Language Models and vision architectures such as Convolutional Neural Networks (CNN) and Vision Transformers. Parallely I am working on RAG based system development with FastAPI.
+I have completed my Bachelor's in Computer Science and Engineering from Shahjalal University of Science and Technology with a focus on Software Engineering, Machine Learning, and Artificial Intelligence. My research interests lie at the intersection of planning, reasoning, and grounded decision-making for intelligent systems, with a particular focus on leveraging the capabilities of Large Language Models and vision architectures such as Transformer, Vision Transformer and Convolutional Neural Networks (CNN). Parallely I am working on RAG based system development implemented with FastAPI.
 
-🔭 I’m currently working on Metrosofts.se as a Machine Learning Intern.
+🔭 I’m currently working on Squad Innovators as a Software Developer(AI/ML).
 
 ---
 
@@ -17,12 +17,13 @@ I have completed my Bachelor's in Computer Science and Engineering from Shahjala
 
 ### 🎓 Academic Background
 - B.Sc. in Computer Science and Engineering, Shahjalal University of Science and Technology
+- HSC in Science, Dhaka College, Dhaka
 
 
 ### 🚀 Projects and Interests
 - CNN based architecture for classification and segmentation
+- RAG for visula search
 - vision transformer based architecture for instance segmentation
-- RAG for visual search
 
 ### 💬 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/adnan-nabil/) 
