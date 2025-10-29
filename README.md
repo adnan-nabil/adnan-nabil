@@ -16,7 +16,7 @@ I have completed my Bachelor's in Computer Science and Engineering from Shahjala
 - Restful API by FastAPI
 
 ### 🎓 Academic Background
-- B.Sc. in Computer Science and Engineering, Shahjalal University of Science and Technology
+- B.Sc. in Computer Science and Engineering, Sylhet Engineering College
 - HSC in Science, Dhaka College, Dhaka
 
 
